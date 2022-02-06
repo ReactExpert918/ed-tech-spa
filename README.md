@@ -6,7 +6,7 @@ Welcome to the Student Strategies portal! This project was created under the pri
 
 Student Strategies is a peer to peer strategy review portal that allows students to review strategies and provide feedback on their own. The portal is designed to be used by teachers, parents, and administrators to review strategies and provide feedback on students’ strategies.
 
-This app does not require any prior knowledge of the strategies being reviewed and does not require user authentication.
+This app does not require any prior knowledge of MTSS but does suggest you know how the process of peer reviewed strategies works. Additionally, this does not require user authentication.
 =======
 # README
 
