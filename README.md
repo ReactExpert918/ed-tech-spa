@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 MTSS Single Page Application
 Peer to peer strategy review portal
 
